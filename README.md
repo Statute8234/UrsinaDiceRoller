@@ -23,4 +23,4 @@ ursina, time, random
 
 # Rating
 
-The project uses Ursina to create a visually appealing and interactive environment, with real-time color customization adding a unique dimension to gameplay. It showcases creativity and technical proficiency, but there's room for further expansion with additional gameplay mechanics and user interface design enhancements.
+For its visuals, which use Ursina to create a visually appealing scene with coins, sliders, and a player entity. However, there are areas for improvement, such as lack of proper code organization, heavy reliance on global variables, redundant parts, and the use of magic numbers. The code also lacks comments explaining the logic behind certain operations, making it difficult for others to understand. Additionally, the code could benefit from more user interaction beyond rolling the dice, such as providing feedback or allowing players to interact with more elements. Addressing these issues can make the code more readable, maintainable, and user-friendly.
