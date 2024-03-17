@@ -7,7 +7,7 @@ UrsinaDiceRoller is a game engine-based dice rolling simulator, allowing users t
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7/10](#Rating)
+- [Rating: 4/10](#Rating)
 
 # About
 
